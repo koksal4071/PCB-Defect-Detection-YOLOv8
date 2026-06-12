@@ -13,7 +13,7 @@ Eğitim sürecinde elde edilen **Confusion Matrix (Karmaşıklık Matrisi)** ve 
 * **mAP50 Skoru:** ~%99 (Neredeyse kusursuz tespit oranı)
 * **Açık Devre (Open Circuit) Başarısı:** %100
 
-*(İndirdiğin confusion_matrix_normalized.png görselini GitHub'a yükleyip buraya ekleyebilirsin)*
+
 
 ---
 
@@ -29,10 +29,3 @@ Mikro düzeydeki yol kopuklukları nokta atışı olarak belirlenmiştir.
 
 ---
 
-## 💻 Kurulum ve Kullanım
-
-### 1. Gereksinimlerin Yüklenmesi
-Projeyi bilgisayarınıza klonladıktan sonra gerekli kütüphaneleri yüklemek için terminalde şu komutu çalıştırın:
-
-```bash
-pip install -r requirements.txt
